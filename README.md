@@ -1,3 +1,1 @@
-# mkdroid
-# mkdroid
-# mkdroid
+Scripts to help building Android
